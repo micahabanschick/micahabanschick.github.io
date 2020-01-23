@@ -1,11 +1,11 @@
 # Site settings
 author: Micah Banschick
-title: 
+title: Welcome Weirdos and Gentle-weirdos
 header-img: img/home-bg.png
 email: micha.ban@gmail.com
 copyright_name: Micah Banschick
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An Analysis of Career vs. Weeb Culture
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  micahabanschick
