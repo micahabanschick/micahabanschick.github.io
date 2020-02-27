@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Arrays inside the Hash (plus "derp" meme)"
-date:       2020-02-27 21:35:16 +0000
+date:       2020-02-27 16:35:17 -0500
 permalink:  arrays_inside_the_hash_plus_derp_meme
 ---
 
