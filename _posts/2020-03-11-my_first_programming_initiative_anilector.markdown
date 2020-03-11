@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Programming Initiative: Anilector"
-date:       2020-03-11 19:52:58 +0000
+date:       2020-03-11 15:52:59 -0400
 permalink:  my_first_programming_initiative_anilector
 ---
 
