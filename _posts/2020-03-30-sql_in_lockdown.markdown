@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "SQL in lockdown"
-date:       2020-03-30 21:24:20 +0000
+title:      "Structured Query Language or Slaves Questioning Life"
+date:       2020-03-30 17:24:21 -0400
 permalink:  sql_in_lockdown
 ---
 
