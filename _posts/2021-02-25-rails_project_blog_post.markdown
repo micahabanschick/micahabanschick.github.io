@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project Blog Post"
-date:       2021-02-25 19:05:00 +0000
+date:       2021-02-25 14:05:03 -0500
 permalink:  rails_project_blog_post
 ---
 
